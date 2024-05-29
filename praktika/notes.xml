@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<notes>
+    <note>
+        <id>1</id>
+        <content>Это ваша первая заметка!</content>
+    </note>
+    <note>
+        <id>2</id>
+        <content>asdfasdfasdf</content>
+    </note>
+    <note>
+        <id>3</id>
+        <content>asdfasdfasdfasdf</content>
+    </note>
+</notes>
